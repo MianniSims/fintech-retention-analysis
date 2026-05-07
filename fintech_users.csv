@@ -1,0 +1,16 @@
+﻿user_id,signup_month,active_month,transactions,revenue
+1001,Jan,Jan,5,120
+1001,Jan,Feb,4,95
+1001,Jan,Mar,2,40
+1002,Jan,Jan,6,150
+1002,Jan,Feb,5,120
+1003,Feb,Feb,3,70
+1003,Feb,Mar,2,50
+1004,Feb,Feb,7,180
+1004,Feb,Mar,6,150
+1005,Mar,Mar,4,90
+1005,Mar,Apr,3,60
+1006,Mar,Mar,5,110
+1007,Apr,Apr,2,40
+1008,Apr,Apr,6,160
+1008,Apr,May,5,130
